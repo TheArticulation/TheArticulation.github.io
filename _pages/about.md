@@ -13,7 +13,6 @@ defaults:
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "bars"
-
 ---
 
-about page
+The Articulation is hosted by both Nick and Monte. Monte made the website and will add Nick's info in a future update.
