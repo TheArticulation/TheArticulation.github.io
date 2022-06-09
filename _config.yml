@@ -278,7 +278,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+   #_posts
   - scope:
       path: ""
       type: posts
@@ -289,3 +289,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Pages
+include: ["_pages"]
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/

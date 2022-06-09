@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gemspec
+gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :tag => "4.24.0"
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
