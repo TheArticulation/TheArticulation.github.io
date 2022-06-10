@@ -1,11 +1,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Categories"
-    url: /categories/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /portfolio/
   - title: "Youtube Playlist"
     url: https://youtube.com/playlist?list=PL7Cn0LtFm4PipZ9DhUm_pOH67Ev-b5YEY
