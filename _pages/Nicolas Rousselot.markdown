@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about/
+permalink: /Nicolas Rousselot/
 defaults:
   # _pages
   - scope:
@@ -9,10 +9,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "bars"
 ---
 
-The Articulation is also conveyed in a podcast format. It hosted by both William and Nicolas. 
+Nicolas Rousselot.
+Host of The Articulation Podcast. Philosopher. Economist. 
+
+<img src="/assets/images/Nicolas Rousselot.jpg" alt="Picture of Nicolas Rousselot">
+

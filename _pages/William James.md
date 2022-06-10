@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about/
+permalink: /William James/
 defaults:
   # _pages
   - scope:
@@ -9,10 +9,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "bars"
 ---
+William James.
 
-The Articulation is also conveyed in a podcast format. It hosted by both William and Nicolas. 
+<img src="/assets/images/uview.png" alt="Picture of William James">

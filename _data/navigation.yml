@@ -1,5 +1,10 @@
 main:
   - title: "About"
     url: /about/
+  - title: "William James"
+    url: /William James/
+  - title: "Nicolas Rousselot"
+    url: /Nicolas Rousselot/
   - title: "Youtube Playlist"
     url: https://youtube.com/playlist?list=PL7Cn0LtFm4PipZ9DhUm_pOH67Ev-b5YEY
+  

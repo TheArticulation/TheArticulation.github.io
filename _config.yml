@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "William James"
   avatar           : assets/images/uview.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Host of The Articulation Podcast. Philosopher. Bioengineer."
+  bio              : "Host of The Articulation Podcast. Creator of this site. Philosopher. Bioengineer."
   location         : "Maryland"
   email            : montej39@gmail.com
   links:
