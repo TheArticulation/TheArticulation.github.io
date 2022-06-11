@@ -4,7 +4,7 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "bars"
 ---
-A paper written for an epistemology class, where I explore the deeper meaning of both objectivity and subjectivity useing a computational model of mind.
+A paper written for an epistemology class, where I explore the deeper meaning of both objectivity and subjectivity using a computational model of mind.
 
 In this paper I would like to explore a strategy of modeling and optimizing the function of epistemic systems. I will start with local epistemic systems consisting of the mind of the individual along with the heuristics one uses. Then I will expand my analysis to encompass larger scale systems, using economics and the aggregation of preferences as the focus of this paper. This exploration seeks to serve as a prolegomena to any future designs of central planning.
 Von Hayek says “if we (1) possess all the relevant information, if we can (2) start out from a given system of preferences and if we can (3)) command complete knowledge of any available means, the problem which remains is purely one of logic.” If we don’t possess the knowledge of the underlying dynamics of economic design, then similar to the process of engineering proteins in synthetic biology the ideal strategy is one of direct evolution. Hayek is correct to identify the utility in deferring to market regulated price systems under such ignorance.
