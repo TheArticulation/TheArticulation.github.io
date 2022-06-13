@@ -9,7 +9,9 @@ toc_icon: "bars"
 I forgot to hit capture audio when I shared the Jordan Peterson videos. To fill them in, please follow the time stamped links in the description, listen till the end of that point and return to our episode. The are ordered according to each point as it appeares in the prelude. 
 
 What is the transcendental rational ethical structure? https://youtu.be/GEf6X-FueMo?t=4934
+
 Peterson says the ethic in an immature form: https://youtu.be/aALsFhZKg-Q?t=2645
+
 Peterson says that in a decoded form ethics is not motivating: https://youtu.be/aALsFhZKg-Q?t=3119
 
 
