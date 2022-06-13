@@ -8,6 +8,11 @@ toc_icon: "bars"
 {% include video id="bmRfg_JzzFE" provider="youtube" %}
 I forgot to hit capture audio when I shared the Jordan Peterson videos. To fill them in, please follow the time stamped links in the description, listen till the end of that point and return to our episode. The are ordered according to each point as it appeares in the prelude. 
 
+What is the transcendental rational ethical structure? https://youtu.be/GEf6X-FueMo?t=4934
+Peterson says the ethic in an immature form: https://youtu.be/aALsFhZKg-Q?t=2645
+Peterson says that in a decoded form ethics is not motivating: https://youtu.be/aALsFhZKg-Q?t=3119
+
+
 ## Introduction
 I don’t have the time to do as much polishing as I’d like. If you are familiar with Jordan Peterson, I integrate all of what he has been looking to say in this article and accompanying podcast. I calculate there to be deep value in the following post, as well with the podcast post. Please look past any friction to extract it for yourself. I hope my computational psychoanalysis of Peterson and Peterson as a potential nazi is entertaining. It was a fun way to frame these insights. 
 ## Definitions
