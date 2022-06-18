@@ -48,7 +48,7 @@ This post contains insights that explain what "Truth" is. It is the first part o
 - This complexity may or may not encode the required signal that is needed to maximize survival value given constraints. Some claims of truth on pragmatic grounds are evaluations that the complexity of the model is compatible with the organismic economic constraints. 
 
 ## Integrated truth
-- An idea/ concept is maximally truthful if it integrates the above, summarized by:
+An idea/ concept is maximally truthful if it integrates the above, summarized by:
 - Models correspond with experience.
 - Resulting models are coherent.
 - Ideas/ concepts and resulting models maximize survival value given pragmatic constraints. 
@@ -57,4 +57,5 @@ This post contains insights that explain what "Truth" is. It is the first part o
 - Many perspectives of truth are means of reducing its perceived complexity. This enables compatibility with a strategy of cognitive frugality and functions as an attempt to be locally optimized. They are sometimes used to avoid looking at the problems maximally integrated truth is the requisite to solving. 
 - Integrated truth requires maximizations across all these dimensions in a recursive manner. Truth and ethics are tightly integrated, as to maximize systematic survival, you must maximize the integrated truthfulness of your models. Ethics as recursive optimization, when applied to models of the world, is the process that maximizes the generation of integrated truth. 
 - Since actions and models of action are so tightly connected in an organism'syste psychology, for them both to improve at the maximum rate the application of recursive optimization to both one's model and one's actions is required. 
+- Focus on one constituent component is important to maximize precision and minimize error. When a constituent model is raised above the level of the integrated definition it is being used as an avoidance tool that provides the value of a cheaper computational cost compared to integrated truth. 
 - Given the Consciousness of humans, if actions are ethical over the long term, possessing models of integrated Truth is just what performs this optimization in both domains.   
