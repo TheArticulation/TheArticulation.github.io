@@ -1,5 +1,5 @@
 ---
-title : "The Articulation Episode Eight: Systems Thinking and Integrated Truth"
+title : "The Articulation Episode Eight: Systems Thinking and Integrated Truth - Part One"
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "bars"
